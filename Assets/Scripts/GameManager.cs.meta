@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 710d4cf5059b52f498d7812946702a28
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - obstaclePrefab: {instanceID: 0}
+  - player: {instanceID: 0}
+  - titleScreen: {instanceID: 0}
+  - gameOverScreen: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - playAgainButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
